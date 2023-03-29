@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background-color: aquamarine;
+    height: 35vh;
+    margin: 0 50px 0 50px;
+}
+h1{
+    text-align: center;
+    padding: 20px 0 0 0;
+}
+.input_form{
+    /* padding: ; */
+    margin: 40px 0 0 465px;
+    padding: 10px 60px 10px 10px;
+    font-size: large    ;
+}
+.storage_list{
+    background-color: maroon;
+    margin: 0 50px 0 50px;
+    height: 45vh;
+}
+li{
+    color: black;
+    font-size: 26px;
+}
+ul{
+    padding: 20px 0 0 85px;
+}
+.add_btn{
+    padding: 12px 10px 10px 10px;
+    cursor: pointer;
+}
